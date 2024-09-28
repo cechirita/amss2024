@@ -1,4 +1,4 @@
-# amss2023
+# amss2024
 Pagina cursului Analiza și Modelarea Sistemelor Software 2024/2025 FMI
 
 ## Admin info
