@@ -9,7 +9,7 @@ Important de știut:
 
 - Temele din lista de proiecte sunt doar niște propuneri. Cerințele lor pot fi schimbate la implementare, însă complexitatea proiectului ar trebui păstrată. Puteți propune și o altă temă decât cele din listă, însă încercați să propuneți proiecte de o complexitate asemănătoare. 
 - Fiecare student trebuie să facă modelarea și implementarea unei părți distincte a proiectului. 
-- Fiecare echipă trebuie să aibă 3-5 membri. Dacă nu reușiți să vă găsiți o echipă, anunțați-mă și vă voi ajuta. Echipele și temele de proiect trebuie alese până pe 29 octombrie 2023. Studenții care nu vor avea proiect/echipă la 30 octombrie vor fi distribuiți aleator în echipe. 
+- Fiecare echipă trebuie să aibă 3-5 membri. Dacă nu reușiți să vă găsiți o echipă, anunțați-mă și vă voi ajuta. Echipele și temele de proiect trebuie alese până pe 29 octombrie 2024. Studenții care nu vor avea proiect/echipă la 30 octombrie vor fi distribuiți aleator în echipe. 
 - O temă poate fi aleasă de mai multe echipe. Dacă prea multe echipe aleg însă exact aceeași temă, e posibil ca unele echipe să fie rugate să schimbe tema.  
 
 
