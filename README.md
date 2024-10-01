@@ -14,6 +14,8 @@ Analiza și modelarea sistemelor software:
 - Semantica UML. Specificații formale
 
 - Design patterns
+  
+- Analiza sistemelor software
 
 #### Cum?
 - Ore de curs + laborator.
