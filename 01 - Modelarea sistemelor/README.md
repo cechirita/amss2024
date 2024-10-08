@@ -98,12 +98,48 @@ Un limbaj de modelare:
    - semantică -- regulile care determină ce înseamnă o diagramă permisă
 - majoritatea limbajelor de modelare au sintaxa și semantica definite informal, în limbaj natural
 
+## Scurt istoric al modelării în SE
+
+[Zurcher, F.W. and Randell, B. Iterative multi-level modelling, A
+methodology for computer system design](http://homepages.cs.ncl.ac.uk/brian.randell/PapersInProceedings/336.pdf),
+IFIP Congress, Edinburgh, August 5-10, 1968
+
+### Modelare grafică
+
+Diagrame
+
+- organizaționale (*organisation charts*)
+- PERT/CPM (program evaluation and review
+technique/critical path method)
+- genealogice
+
+folosite ca analogii în primele lucrări de inginerie software.
+
+Primele diagrame/modele de inginerie software erau data-oriented și de mici dimensiuni. 
+
+Un model "foarte mare" (Bachman, 1969):
+
+<img alt="bachmann 1969" src="images/1969.png" width="400px">
+
+### Modele vechi
+
+- Modele statice (de structură): la început, văzute doar ca desene, nu obiecte formale. În 1967, Chen prezintă ideea că reprezentările diagramatice pot fi izomorfe cu cele simbolice. 
+- Modele dinamice: flowcharts (e.g. Gilbreth, 1921);
+automate (e.g. Taylor Booth, 1967 "Sequential
+Machines and Automata Theory"); Harel statecharts (1980);
+message sequence charts (1990)
+
+### Modelare orientată pe obiecte
+
+Explozia dezvoltării OO: o mulțime de *gurus*, fiecare susținând propria companie, tool, carte, notație pentru modelare, printre care și Booch, Rumbaugh, Jacobson, cei "trei amigos" care au inițiat UML (Unified Modeling Language), dar și Coad, Odell, Schlaer și Mellor, Wirfs-Brock etc.
+
 ## [Unified Modelling Language (UML)](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
 
+- a apărut în anii '90 în contextul unor proiecte de modelare orientată pe obiecte: mai multe notații orientate pe obiecte similare au fost integrate pentru a defini un limbaj
+- în 1997, standardizarea UML (UML 1.0): "The methods war is over: we won." – Booch și Rumbaugh.
+- revizie majoră (UML 2) finalizată în 2004
 - UML 2.0 format din 13 tipuri de diagrame 
 - UML 2.5 format din 15 tipuri de diagrame
-- a apărut în anii '90 în contextul unor proiecte de modelare orientată pe obiecte; mai multe notații orientate pe obiecte similare au fost integrate pentru a defini un limbaj
-- revizie majoră (UML 2) finalizată în 2004
 - universal acceptat ca abordarea standard pentru modelarea sistemelor software
 - variante, precum SysML, au fost propuse pentru o modelare mai generală 
 
@@ -132,6 +168,7 @@ Un sondaj a arătat că majoritatea utilizatorilor UML consideră că 5 tipuri d
  4. [diagramele de clasă](https://en.wikipedia.org/wiki/Class_diagram) -- arată clasele de obiecte din sistem și legăturile dintre aceste clase
  5. [diagrame de stare](https://en.wikipedia.org/wiki/UML_state_machine) -- arată cum sistemul răspunde la evenimente interne și externe
 
+
 ### UML Rules of Thumb. UP or DOWN?
 
 1. Nearly everything in UML is optional
@@ -139,6 +176,14 @@ Un sondaj a arătat că majoritatea utilizatorilor UML consideră că 5 tipuri d
 3. UML is designed to be open to interpretation
 4. UML is intended to be extended
 
+
+### UML dead? 
+
+- majoritatea celor ce lucrează în industria ingineriei software nu folosesc UML, ci diagrame informale ce includ elemente preluate din UML.
+
+- [Google Trends](https://trends.google.com/trends/explore?date=all&geo=US&q=UML&hl=en): UML în declin din 2004. 
+
+- Visual Studio nu mai oferă suport pentru UML din 2016. 
 
 ## Bibliografie
 
