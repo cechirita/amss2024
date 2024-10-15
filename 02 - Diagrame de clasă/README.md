@@ -246,10 +246,6 @@ classDiagram
         +Roata roata[4..5] 
         +drive(mode)
     }
-  class Motor{
-}
-class Roata{
-    }
 ```
 
 
