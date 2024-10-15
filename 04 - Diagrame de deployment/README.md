@@ -48,12 +48,6 @@ Când asociem un artefact cu o țintă de deployment (*deployment target*), spun
 Pot fi folosite și *specificații de deployment* (liste de proprietăți) pentru detalierea modului în care un artefact trebuie deployed într-un nod țintă.
 
 
-### Exemple
-
-![Exemplu diagrama deployment](https://online.visual-paradigm.com/images/tutorials/deployment-diagram-tutorial/04-deployment-diagram-node-and-artifacts.png)
-
-![Exemplu diagrama deployment]([https://online.visual-paradigm.com/images/tutorials/deployment-diagram-tutorial/04-deployment-diagram-node-and-artifacts.png](https://media.geeksforgeeks.org/wp-content/uploads/20240304155430/Deployment-Diagram-for-Mobile-Banking-Android-Services-(1).webp))
-
 ### Deployment patterns
 
 Diagramele de deployment sunt utile și pentru reprezentarea pattern-urilor de deployment / arhitecturilor:
@@ -63,6 +57,12 @@ Diagramele de deployment sunt utile și pentru reprezentarea pattern-urilor de d
 - Arhitectură bazată pe microservicii
 - Containerizare (e.g. Docker)
 - Arhitectură cloud
+
+### Exemple
+
+![Exemplu diagrama deployment](https://online.visual-paradigm.com/images/tutorials/deployment-diagram-tutorial/04-deployment-diagram-node-and-artifacts.png)
+
+![Exemplu diagrama deployment]([[https://online.visual-paradigm.com/images/tutorials/deployment-diagram-tutorial/04-deployment-diagram-node-and-artifacts.png](https://media.geeksforgeeks.org/wp-content/uploads/20240304155430/Deployment-Diagram-for-Mobile-Banking-Android-Services-(1).webp))](https://media.geeksforgeeks.org/wp-content/uploads/20240304155430/Deployment-Diagram-for-Mobile-Banking-Android-Services-(1).webp))
 
 
 ## Cu ce desenăm diagrame?
