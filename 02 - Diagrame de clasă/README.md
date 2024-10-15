@@ -234,6 +234,25 @@ classDiagram
   Animal <|-- Dog
 ```
 
+## Exercițiu
+
+Modelați o mașină folosind diagrame de clasă.
+
+```mermaid
+%%{init: {'theme':'neutral'}}%%
+classDiagram
+    class Masina {
+        -Motor motor
+        +Roata roata[4..5] 
+        +drive(mode)
+    }
+  class Motor{
+}
+class Roata{
+    }
+```
+
+
 
 ## Cu ce desenăm diagrame?
 
