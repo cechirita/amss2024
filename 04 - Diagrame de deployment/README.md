@@ -4,6 +4,22 @@
 
 Diagramele de deployment reprezintă legăturile dintre produsele software și hardware-ul pe care vor rula acestea. 
 
+Diagramele de deployment sunt utile în:
+
+- *system planning*: cum va fi implementat un sistem pe dispozitive diferite
+- designul infrastructurii (stabilirea hardware-ului necesar)
+- alocarea resurselor
+- analiza dependențelor: cum depind diferite parți ale sistemului software unele de altele dar și de hardware
+- optimizarea performanței sistemelor
+- planificarea securității
+
+Diagramele de deployment sunt folosite mai ales de dev ops și administratori de sistem ca să descrie:
+
+- modelarea unei topologii de rețea 
+- modelare sistemelor distribuite 
+- sisteme de forwards și reverse engineering
+
+
 Elementele software (componente, clase, cod compilat) sunt reprezentate ca artefacte (*artifacts*): dreptunghiuri ce conțin numele elementelor și o iconiță sub formă de fișier în colțul din dreapta-sus. 
 
 <img alt="artefact" src="images/a1.png" width="200px">
@@ -31,11 +47,6 @@ Când asociem un artefact cu o țintă de deployment (*deployment target*), spun
 
 Pot fi folosite și *specificații de deployment* (liste de proprietăți) pentru detalierea modului în care un artefact trebuie deployed într-un nod țintă.
 
-Diagramele de deployment sunt folosite mai ales de dev ops și administratori de sistem ca să descrie:
-
-- modelarea unei topologii de rețea 
-- modelare sistemelor distribuite 
-- sisteme de forwards și reverse engineering
 
 ### Exemplu
 
