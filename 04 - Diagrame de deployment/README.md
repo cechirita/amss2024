@@ -62,7 +62,7 @@ Diagramele de deployment sunt utile și pentru reprezentarea pattern-urilor de d
 
 ![Exemplu diagrama deployment](https://online.visual-paradigm.com/images/tutorials/deployment-diagram-tutorial/04-deployment-diagram-node-and-artifacts.png)
 
-![Exemplu diagrama deployment]([[https://online.visual-paradigm.com/images/tutorials/deployment-diagram-tutorial/04-deployment-diagram-node-and-artifacts.png](https://media.geeksforgeeks.org/wp-content/uploads/20240304155430/Deployment-Diagram-for-Mobile-Banking-Android-Services-(1).webp))](https://media.geeksforgeeks.org/wp-content/uploads/20240304155430/Deployment-Diagram-for-Mobile-Banking-Android-Services-(1).webp))
+![Exemplu diagrama deploy](https://media.geeksforgeeks.org/wp-content/uploads/20240304155430/Deployment-Diagram-for-Mobile-Banking-Android-Services-(1).webp)
 
 
 ## Cu ce desenăm diagrame?
