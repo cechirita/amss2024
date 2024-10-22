@@ -242,13 +242,47 @@ Modelați o mașină folosind diagrame de clasă.
 %%{init: {'theme':'neutral'}}%%
 classDiagram
     class Masina {
-        -Motor motor
-        +Roata roata[4..5] 
+        -Int portbagaj[0..2]
+        +String culoare
+        +String marcă
+        +String model
+        +String transmisie
         +drive(mode)
+        +break()
+        -aer-conditionat(temp)
+        -car-play(volum)
+        -navigare()
+        +alimentare()
+        +lightning()
+    } 
+  class Motor{
+    -Int CP[50..2000]
+    -Int cilindri
+    +String tip
+    +aprindere()
+}
+class Caroserie{
+    +String tip
+    -String material
+    -Int geamuri
+    -Int locuri
+    +blocare-usi() 
     }
+class Roata{
+    +String tip
+    +Boolean rezerva
+    +Float marime
+    +umflare()
+    }
+
+Masina <-- Motor
+Masina <-- "4..5" Roata : are
+Masina *-- Caroserie : are
 ```
 
+### Exercițiu laborator
 
+Modelarea unei parcări folosind diagrame de clasă.
 
 ## Cu ce desenăm diagrame?
 
