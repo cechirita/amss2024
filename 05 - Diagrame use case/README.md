@@ -100,6 +100,6 @@ Modelarea interacțiunilor utilizatorilor cu pagina YouTube folosind diagrame us
 
 ## Bibliografie
 
- - *UML 2.0 in a Nutshell*, Dan Pilone, Neil Pitman - Chapter 6, Deployment Diagrams & Chapter 7, Use Case Diagrams
+ - *UML 2.0 in a Nutshell*, Dan Pilone, Neil Pitman - Chapter 7, Use Case Diagrams
  - *Using UML*, Perdita Stevens, Rob Pooley - Chapter 7, Essentials of use case models & Chapter 8, More on use case models
 
