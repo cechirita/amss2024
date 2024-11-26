@@ -25,7 +25,7 @@ Analiza și modelarea sistemelor software:
 - office hours online, pe Teams (TBD)
 
 #### Cu cine?
- [Claudia Chiriță](https://cs.unibuc.ro/~cechirita/) + guest lecturers
+ [Claudia Chiriță](https://cs.unibuc.ro/~cechirita/) + guest lecturer, [Ionuț Țuțu](https://scholar.google.com/citations?hl=ro&user=10v2GlMAAAAJ) 
 
 #### Note?
 
